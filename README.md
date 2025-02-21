@@ -1,3 +1,3 @@
 # Consultas SQL
-![SQL](sql.png)
+![SQL](img/sql.png)
 1. [Condicionantes](condicionantes.md)
